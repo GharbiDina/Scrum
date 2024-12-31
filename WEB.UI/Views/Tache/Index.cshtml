@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ApplicationCore.Domain.Tache>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.etatTache)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateDebut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateFin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SprintKey)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MembreKey)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.etatTache)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dateDebut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dateFin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SprintKey)
+            </td>
+            <td>
+                    @Html.ActionLink("Menmbre.Nom", "dina", new { id = item.MembreKey }) |
+                    @Html.DisplayFor(modelItem => item.Menmbre.Nom)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

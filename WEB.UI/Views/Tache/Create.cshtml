@@ -1,0 +1,65 @@
+﻿@model ApplicationCore.Domain.Tache
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Tache</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titre" class="control-label"></label>
+                <input asp-for="Titre" class="form-control" />
+                <span asp-validation-for="Titre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="etatTache" class="control-label"></label>
+                <select class="form-control" asp-for="etatTache" asp-items="@ViewBag.e">
+                </select>
+
+                <span asp-validation-for="etatTache" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dateDebut" class="control-label">dateDebut</label>
+                <input asp-for="dateDebut" class="form-control" />
+                <span asp-validation-for="dateDebut" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dateFin" class="control-label">dateFin</label>
+                <input asp-for="dateFin" class="form-control" />
+                <span asp-validation-for="dateFin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                <label asp-for="SprintKey" class="control-label">SprintKey</label>
+                 <select class="form-control" asp-for="SprintKey" asp-items="@ViewBag.s">
+                </select>
+                <span asp-validation-for="SprintKey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+
+                <label asp-for="MembreKey" class="control-label">MembreKey</label>
+                <select class="form-control" asp-for="MembreKey" asp-items="@ViewBag.m">
+                </select>
+                <span asp-validation-for="MembreKey" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,5 +1,7 @@
 using AM.ApplicationCore.Interfaces;
+using AM.ApplicationCore.Services;
 using AM.Infrastructure;
+using ApplicationCore.Domain;
 using Exam.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,6 +12,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<DbContext, ExamContext>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<Type>(p => typeof(GenericRepository<>));
+builder.Services.AddScoped<IService<Tache>, Service<Tache>>();
 //add instance of services
 
 
