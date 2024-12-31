@@ -18,6 +18,8 @@ namespace ApplicationCore.Domain
         public DateTime dateFin { get; set; }
         public virtual Sprint Sprint { get; set; }
         public virtual Menmbre Menmbre { get; set; }
+        public int SprintKey { get; set; }
+        public string MembreKey { get; set; }
 
     }
 }
