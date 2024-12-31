@@ -1,0 +1,34 @@
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.deps.json
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.runtimeconfig.json
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.dll
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.pdb
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfo.cs
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Inf.E86AC6A0.Up2Date
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.dll
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\refint\Exam.Infrastructure.dll
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.pdb
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.genruntimeconfig.cache
+C:\Users\khoul\source\repos\Examen\Exam.Infrastructure\obj\Debug\net8.0\ref\Exam.Infrastructure.dll
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.deps.json
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.runtimeconfig.json
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.dll
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\bin\Debug\net8.0\Exam.Infrastructure.pdb
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.AssemblyReference.cache
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfoInputs.cache
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfo.cs
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.CoreCompileInputs.cache
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Inf.E86AC6A0.Up2Date
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.dll
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\refint\Exam.Infrastructure.dll
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.pdb
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.genruntimeconfig.cache
+D:\4erp-Bi\.net\doc_aut\2-Examen Scrum\Examen\Exam.Infrastructure\obj\Debug\net8.0\ref\Exam.Infrastructure.dll
