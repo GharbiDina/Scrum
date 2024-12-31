@@ -12,6 +12,7 @@ namespace ApplicationCore.Domain
     {
         [Key]
         public string matricule { get; set; }
+        [EmailAddress]
         public string email { get; set; }
         public string password { get; set; }
         public string Nom { get; set; }
