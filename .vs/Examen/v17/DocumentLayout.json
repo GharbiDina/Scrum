@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\domain\\menmbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\menmbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\domain\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\domain\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\domain\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\domain\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\domain\\menmbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\menmbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|d:\\4erp-bi\\.net\\doc_aut\\2-examen scrum\\examen\\applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,46 +74,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Tache.cs",
+              "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Tache.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Tache.cs",
+              "ToolTip": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Tache.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Tache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:53:55.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Menmbre.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Menmbre.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Menmbre.cs",
-              "ToolTip": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Menmbre.cs*",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Menmbre.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Menmbre.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Menmbre.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T16:50:01.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sprint.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Sprint.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Sprint.cs",
-              "ToolTip": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Sprint.cs*",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Sprint.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Sprint.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Sprint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T16:49:09.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Projet.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Projet.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Projet.cs",
               "ToolTip": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Domain\\Projet.cs",
               "RelativeToolTip": "ApplicationCore\\Domain\\Projet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T16:47:50.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IService.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IService.cs",
@@ -117,12 +134,11 @@
               "RelativeToolTip": "ApplicationCore\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T16:47:15.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T16:47:15.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\WEB.UI\\Program.cs",
               "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
@@ -130,12 +146,11 @@
               "RelativeToolTip": "WEB.UI\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:22:22.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:22:22.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WEB.UI.csproj",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\WEB.UI\\WEB.UI.csproj",
               "RelativeDocumentMoniker": "WEB.UI\\WEB.UI.csproj",
@@ -147,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ApplicationCore.csproj",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\ApplicationCore.csproj",
               "RelativeDocumentMoniker": "ApplicationCore\\ApplicationCore.csproj",
@@ -159,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ExamContext.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\Exam.Infrastructure\\ExamContext.cs",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\ExamContext.cs",
@@ -171,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Exam.Infrastructure.csproj",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\Exam.Infrastructure\\Exam.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Exam.Infrastructure\\Exam.Infrastructure.csproj",
@@ -183,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Exam.Console.csproj",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\Exam.Console\\Exam.Console.csproj",
               "RelativeDocumentMoniker": "Exam.Console\\Exam.Console.csproj",
@@ -195,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\ApplicationCore\\Class1.cs",
               "RelativeDocumentMoniker": "ApplicationCore\\Class1.cs",
@@ -207,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\4erp-Bi\\.net\\doc_aut\\2-Examen Scrum\\Examen\\Exam.Console\\Program.cs",
               "RelativeDocumentMoniker": "Exam.Console\\Program.cs",

@@ -11,5 +11,8 @@ namespace ApplicationCore.Domain
         public int id { get; set; }
         public DateTime dateDebut { get; set; }
         public string description { get; set; }
+        public virtual Projet Projet { get; set; }
+        public virtual IList<Tache> Taches { get; set; }
+
     }
 }
