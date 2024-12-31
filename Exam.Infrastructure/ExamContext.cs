@@ -24,6 +24,7 @@ namespace Exam.Infrastructure
         }
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
         {
+            configurationBuilder.Properties<string>().HaveMaxLength(200);
             base.ConfigureConventions(configurationBuilder);
         }
     }
